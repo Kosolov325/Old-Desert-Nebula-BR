@@ -42,6 +42,7 @@ Moderator			= +ADMIN +FUN +BAN +SPAWN +POSSESS +BUILD +VAREDIT
 Head Moderator		= +@
 Admin				= +EVERYTHING *EVERYTHING
 Administrator		= +@
+Kosolov                 = +EVERYTHING
 Headmin               = +@
 Oversight			= +EVERYTHING *EVERYTHING
 Game Master			= +EVERYTHING *EVERYTHING

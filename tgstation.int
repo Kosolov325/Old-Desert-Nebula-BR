@@ -2,7 +2,7 @@
 /*
 MAP_ZOOM: 1.000
 LAST_COMPILE_TIME: 1621874160
-DIR: code code\__DEFINES code\game code\game\machinery code\game\machinery\telecomms code\game\machinery\telecomms\machines code\game\turfs code\modules code\modules\arousal code\modules\arousal\toys code\modules\crafting code\modules\holiday code\modules\mob 
+DIR: code code\__DEFINES code\game code\game\machinery code\game\machinery\telecomms code\game\machinery\telecomms\machines code\game\turfs code\modules code\modules\admin code\modules\arousal code\modules\arousal\toys code\modules\client code\modules\crafting code\modules\holiday code\modules\mob 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 513.1542
