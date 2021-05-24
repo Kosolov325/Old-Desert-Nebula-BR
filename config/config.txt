@@ -236,7 +236,7 @@ RULESURL https://discord.gg/3Q8hRaDf7B
 
 
 ## Github address
-GITHUBURL https://github.com/judgex/desertrose
+GITHUBURL https://github.com/Kosolov325/Desert-Nebula-BR
 
 ## Round specific stats address
 ## Link to round specific parsed logs; IE statbus. It is appended with the RoundID automatically by ticker/Reboot()
@@ -252,10 +252,10 @@ GITHUBURL https://github.com/judgex/desertrose
 ## Github repo id
 ##This can be found by going to https://api.github.com/users/<user name here>/repos
 ##Or https://api.github.com/orgs/<org name here>/repos if the repo owner is an organization
-GITHUBREPOID 49179392
+GITHUBREPOID 58604882
 
 ## Ban appeals URL - usually for a forum or wherever people should go to contact your admins.
-BANAPPEALS http://desertrosefallout13.boards.net/
+BANAPPEALS https://discord.gg/3Q8hRaDf7B
 
 ## System command that invokes youtube-dl, used by Play Internet Sound.
 ## You can install youtube-dl with
