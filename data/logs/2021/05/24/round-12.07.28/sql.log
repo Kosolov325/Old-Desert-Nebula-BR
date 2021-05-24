@@ -1,0 +1,10 @@
+[2021-05-24 15:07:28.801] SQL: Failed to connect to database while loading admins. Loading from backup.
+[2021-05-24 15:07:28.802] SQL: not connected | Query used: SELECT rank, flags, exclude_flags, can_edit_flags FROM SS13_admin_ranks
+[2021-05-24 15:07:28.802] SQL: Error loading admin ranks from database. Loading from backup.
+[2021-05-24 15:07:28.814] SQL: not connected | Query used: SELECT ckey, rank FROM SS13_admin ORDER BY rank
+[2021-05-24 15:07:28.814] SQL: Error loading admins from database. Loading from backup.
+[2021-05-24 15:12:02.892] SQL: Failed to connect to database while loading admins. Loading from backup.
+[2021-05-24 15:12:02.985] SQL: not connected | Query used: SELECT rank, flags, exclude_flags, can_edit_flags FROM SS13_admin_ranks
+[2021-05-24 15:12:03.034] SQL: Error loading admin ranks from database. Loading from backup.
+[2021-05-24 15:12:03.048] SQL: not connected | Query used: SELECT ckey, rank FROM SS13_admin ORDER BY rank
+[2021-05-24 15:12:03.048] SQL: Error loading admins from database. Loading from backup.

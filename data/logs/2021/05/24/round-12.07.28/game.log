@@ -1,0 +1,58 @@
+[2021-05-24 15:07:28.775] Starting up round ID .
+ - -------------------------
+[2021-05-24 15:07:29.024] 12:07:29 ADMIN: Loading Banlist
+[2021-05-24 15:07:29.025] 12:07:29 ADMIN: Banlist is empty.
+[2021-05-24 15:07:29.025] 12:07:29 ADMIN: Banlist missing base dir.
+[2021-05-24 15:07:30.061] GAME: Saved mode is 'extended'
+[2021-05-24 15:08:11.936] GAME: ### MAPPING ERROR: the conveyor belt at Vault (20, 186, 4) spawned without using a diagonal dir. Please replace with a normal version.
+[2021-05-24 15:08:11.937] GAME: ### MAPPING ERROR: the conveyor belt at Vault (21, 186, 4) spawned without using a diagonal dir. Please replace with a normal version.
+[2021-05-24 15:08:11.961] GAME: ### MAPPING ERROR: the conveyor belt at Vault (19, 185, 4) spawned without using a diagonal dir. Please replace with a normal version.
+[2021-05-24 15:09:21.868] ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513
+[2021-05-24 15:09:21.873] ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+[2021-05-24 15:09:23.898] GAME: brotherhood of steel (base) loaded at 17,192,1
+[2021-05-24 15:09:24.118] GAME: Box Station Emergency Shuttle loaded at 18,183,1
+[2021-05-24 15:09:24.347] GAME: fancy transport ferry loaded at 15,193,1
+[2021-05-24 15:09:24.466] GAME: cargo ferry (Box) loaded at 18,189,1
+[2021-05-24 15:09:24.755] GAME: assault pod (Default) loaded at 18,192,1
+[2021-05-24 15:09:25.156] GAME: basic syndicate infiltrator loaded at 13,184,1
+[2021-05-24 15:09:25.495] GAME: Bunker Elevator loaded at 20,193,1
+[2021-05-24 15:09:25.535] GAME: North Bunker Elevator loaded at 20,193,1
+[2021-05-24 15:09:25.765] GAME: East Bunker Variant 2 loaded at 200,90,2
+[2021-05-24 15:10:25.441] ACCESS: Logout: Kosolov325/(Kosolov325)
+[2021-05-24 15:12:02.624] Starting up round ID .
+ - -------------------------
+[2021-05-24 15:12:03.083] 12:12:03 ADMIN: Loading Banlist
+[2021-05-24 15:12:04.082] GAME: Saved mode is 'extended'
+[2021-05-24 15:12:47.393] GAME: ### MAPPING ERROR: the conveyor belt at Vault (20, 186, 4) spawned without using a diagonal dir. Please replace with a normal version.
+[2021-05-24 15:12:47.393] GAME: ### MAPPING ERROR: the conveyor belt at Vault (21, 186, 4) spawned without using a diagonal dir. Please replace with a normal version.
+[2021-05-24 15:12:47.415] GAME: ### MAPPING ERROR: the conveyor belt at Vault (19, 185, 4) spawned without using a diagonal dir. Please replace with a normal version.
+[2021-05-24 15:13:42.744] ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513
+[2021-05-24 15:13:42.745] ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+[2021-05-24 15:14:03.850] GAME: brotherhood of steel (base) loaded at 17,192,1
+[2021-05-24 15:14:04.201] GAME: Box Station Emergency Shuttle loaded at 18,183,1
+[2021-05-24 15:14:04.627] GAME: fancy transport ferry loaded at 15,193,1
+[2021-05-24 15:14:04.880] GAME: cargo ferry (Box) loaded at 18,189,1
+[2021-05-24 15:14:05.961] GAME: assault pod (Default) loaded at 18,192,1
+[2021-05-24 15:14:06.912] GAME: basic syndicate infiltrator loaded at 13,184,1
+[2021-05-24 15:14:07.538] GAME: Bunker Elevator loaded at 20,193,1
+[2021-05-24 15:14:08.023] GAME: North Bunker Elevator loaded at 20,193,1
+[2021-05-24 15:14:10.140] GAME: East Bunker Variant 1 loaded at 200,90,2
+[2021-05-24 15:14:17.617] ACCESS: Logout: Kosolov325/(Kosolov325)
+[2021-05-24 15:16:34.690] ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513
+[2021-05-24 15:16:34.690] ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+[2021-05-24 15:18:30.720] GAME: Item Spawners Subsystem Firing
+[2021-05-24 15:18:32.607] ACCESS: Mob Login: Kosolov325/(ghost) was assigned to a /mob/dead/observer
+[2021-05-24 15:18:48.515] SAY: legendary deathclaw/ : ROAR! (134,56,4)
+[2021-05-24 15:18:50.199] EMOTE: *no key*/(deathclaw) : <b>The deathclaw</b> grawls. (220,231,4)
+[2021-05-24 15:18:50.205] SAY: deathclaw/ : ROAR! (219,233,4)
+[2021-05-24 15:18:50.326] EMOTE: *no key*/(giant radscorpion) : <b>The giant radscorpion</b> snips at Centaur. (53,242,4)
+[2021-05-24 15:18:50.359] SAY: super mutant/ : ARGH! (243,245,4)
+[2021-05-24 15:18:50.772] SAY: super mutant/ : HMPH! (243,247,4)
+[2021-05-24 15:18:50.846] EMOTE: *no key*/(giant spider (675)) : <b>The giant spider (675)</b> chitters (169,124,3)
+[2021-05-24 15:18:50.947] SAY: deathclaw/ : GRRAAGH! (120,215,3)
+[2021-05-24 15:18:51.102] SAY: super mutant/ : GRRRRRR! (96,224,3)
+[2021-05-24 15:18:51.129] SAY: super mutant/ : ARRRRR! (95,229,3)
+[2021-05-24 15:18:51.567] SAY: deathclaw/ : GRRAAGH! (60,210,3)
+[2021-05-24 15:18:51.571] EMOTE: *no key*/(deathclaw) : <b>The deathclaw</b> grumbles. (59,216,3)
+[2021-05-24 15:18:51.755] EMOTE: *no key*/(molerat) : <b>The molerat</b> hisses at the deathclaw. (29,121,3)
+[2021-05-24 15:18:52.049] ACCESS: Logout: Kosolov325/(Madisyn Stamos)
