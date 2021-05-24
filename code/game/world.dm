@@ -8,7 +8,7 @@ GLOBAL_PROTECT(security_mode)
 //So subsystems globals exist, but are not initialised
 /world/New()
 	enable_debugger()
-	
+
 	log_world("World loaded at [time_stamp()]!")
 
 	SetupExternalRSC()
@@ -255,11 +255,9 @@ GLOBAL_PROTECT(security_mode)
 			features += "vote"
 		hostedby = CONFIG_GET(string/hostedby)
 
-	s += "<b>\[ENG] Fallout 13 \[18+]<br>"
-	s += "An 18+ HRP server based around Fallout 2 and New Vegas.<br>"
-	s += "Heavy RP \[https://discord.gg/NGpP36m]<br>"
-	s += "Hosted by: Corvo"
-
+	s += "<b>\[PT-BR] Fallout 13\<br>"
+	s += "An HRP server based around Fallout 2 and New Vegas.<br>"
+	s += "Heavy RP \[https://discord.gg/3Q8hRaDf7B]<br>"
 	var/n = 0
 	for (var/mob/M in GLOB.player_list)
 		if (M.client)

@@ -1,8 +1,8 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1621868634
-DIR: code code\__DEFINES code\game code\game\machinery code\game\machinery\telecomms code\game\machinery\telecomms\machines code\game\turfs code\modules code\modules\arousal code\modules\arousal\toys code\modules\crafting code\modules\holiday code\modules\mob code\modules\mob\living code\modules\mob\living\silicon code\modules\mob\living\silicon\robot code\modules\mob\living\simple_animal code\modules\mob\living\simple_animal\hostile code\modules\mob\living\simple_animal\hostile\deathclaw code\modules\vending interface 
+LAST_COMPILE_TIME: 1621874160
+DIR: code code\__DEFINES code\game code\game\machinery code\game\machinery\telecomms code\game\machinery\telecomms\machines code\game\turfs code\modules code\modules\arousal code\modules\arousal\toys code\modules\crafting code\modules\holiday code\modules\mob 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 513.1542
